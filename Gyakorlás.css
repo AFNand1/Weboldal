@@ -1,0 +1,50 @@
+body {
+    background-image: url(pxfuel.jpg) ;
+    max-width: max-content;
+    position: fixed;
+    
+}
+#Pc {
+    box-shadow: 0 0 50px #ff00ff ;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 400px; 
+    height: 450px;
+    
+}
+.vegyelpc {
+    position: relative;
+    left: 167px;
+    top: 100px;
+    font-size: 40px;
+}
+#Console {
+    box-shadow: 0 0 50px white ;
+    position: relative;
+    left: 750px;
+    top: -445px;
+    width: 420px; 
+    height: 450px;
+}
+.vegyelxbox {
+    position: relative;
+    left: 830px;
+    top: -393px;
+    font-size: 40px;
+    
+}
+.vegyelps {
+    position: relative;
+    left: 1550px;
+    top: -896px;
+    font-size: 40px;
+}
+#Ps {
+    box-shadow: 0 0 50px rgb(158, 13, 85);
+    position: relative;
+    left: 1430px;
+    top: -942px;
+    width: 420px; 
+    height: 450px;
+}
